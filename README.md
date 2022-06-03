@@ -4,8 +4,7 @@
 
 ```
 ├─── RMI
-|    ├─── Client
-│    └─── Server
+│    └─── Rock papers scisors.zip
 ├─── FDD
 |    ├─── adult.csv
 |    ├─── FDD_rapport.ipynb
