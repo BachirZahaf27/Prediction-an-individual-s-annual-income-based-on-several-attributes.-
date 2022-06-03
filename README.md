@@ -15,8 +15,8 @@
 ## II-How to launch the FDD project:
 
 1- first way:
- - access the `FDD_rapport.ipynb` using this link : https://github.com/BachirZahaf27/FDD-project/FDD/FDD_rapport.ipynb
+ - access the `FDD_rapport.ipynb` using this link : [https://github.com/BachirZahaf27/FDD-project/FDD/FDD_rapport.ipynb](https://github.com/BachirZahaf27/FDD-project/blob/main/FDD/FDD_rapport.ipynb)
  
 2- second way:
- - download the `FDD` folder and lunch it with VSCode using this link : https://github.com/BachirZahaf27/FDD-project/FDD
+ - download the `FDD` folder and lunch it with VSCode using this link : [https://github.com/BachirZahaf27/FDD-project/FDD](https://github.com/BachirZahaf27/FDD-project/tree/main/FDD)
 
