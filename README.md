@@ -1,6 +1,10 @@
-# Last hope -project
+# Fouille de données -project
 
-## I-Folder Structure :
+## I-Breif :
+
+[Projet-AOSI-FDD.pdf](https://github.com/BachirZahaf27/lasthope/files/10967617/Projet-AOSI-FDD.pdf)
+
+## II-Folder Structure :
 
 ```
 ├─── FDD
@@ -9,7 +13,7 @@
 │    └─── FDD_rapport.py
 └─── README
 ```
-## II-How to launch the FDD project:
+## III-How to launch the FDD project:
 
 1- first way:
  - access the `FDD_rapport.ipynb` using this link : [https://github.com/BachirZahaf27/FDD-project/FDD/FDD_rapport.ipynb](https://github.com/BachirZahaf27/lasthope/blob/main/FDD/FDD_rapport.ipynb)
