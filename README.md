@@ -3,8 +3,6 @@
 ## I-Folder Structure :
 
 ```
-├─── RMI
-│    └─── Rock papers scisors.zip
 ├─── FDD
 |    ├─── adult.csv
 |    ├─── FDD_rapport.ipynb
