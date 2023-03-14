@@ -1,8 +1,8 @@
 # Fouille de données -project
 
-## I-Breif :
+## I-Brief :
 
-[Projet-AOSI-FDD.pdf](https://github.com/BachirZahaf27/lasthope/files/10967617/Projet-AOSI-FDD.pdf)
+- access the `Fouille de données -project brief` using this link : https://github.com/BachirZahaf27/lasthope/blob/main/FDD/Projet-AOSI-FDD.pdf
 
 ## II-Folder Structure :
 
